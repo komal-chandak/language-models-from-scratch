@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Test caches
+.pytest_cache/
+
+# Model artifacts
+models/
+*.pt
+*.pth
+*.bin
+
+# OS junk
+.DS_Store
